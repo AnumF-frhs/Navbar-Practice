@@ -1,3 +1,8 @@
+.list{
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+}
 /* 1 */
 /* From Uiverse.io by Praashoo7 */ 
 .main_back {
@@ -452,5 +457,6 @@ button {
    .batman:hover:before {
     width: 100%;
    }
+  
    
    
