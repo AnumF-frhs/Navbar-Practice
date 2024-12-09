@@ -9,7 +9,7 @@
 
 body {
     min-height: 100vh;
-    background: red
+    background: url('img/background.png') no-repeat;
 }
 
 .header {
@@ -18,7 +18,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    background: seagreen;
+    background: rgb(71, 187, 121);
     display: flex;
     justify-content: space-between;
     align-items: center;
